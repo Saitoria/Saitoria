@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://saitoria.github.io/portfolio/index.html](https://saitoria.github.io/portfolio/index.html)
+- 👨‍💻 My portfolio is available at [https://saitoria.github.io/portfolio/index.html](https://saitoria.github.io/portfolio/index.html)
 
 - 💬 Ask me about **React, Android Development, Game Development, 3D Graphics**
 

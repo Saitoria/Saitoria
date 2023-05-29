@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Saitoria/portfolio/blob/master/assets/imgs/swis.png?raw=true)](https://saitoria.github.io/portfolio/index.html)
-<h1 align="center">Hello 👋, My name's Saroni Saitotia</h1>
+<h1 align="center">Hello 👋, My name's Saroni Saitoria</h1>
 <h3 align="center">Welcome to my GitHub!, I am a tech entusiast, software developer and the founder of 
   <a href="https://instagram.com/swis_studios" target="blank">swis_studios</a> </h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>

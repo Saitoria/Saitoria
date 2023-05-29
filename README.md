@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/Saitoria/portfolio/blob/master/assets/imgs/swis.png?raw=true)](https://saitoria.github.io/portfolio/index.html)
-<h1 align="center">Hi 👋, I'm Saroni Saitotia</h1>
-<h3 align="center">A tech enthusiast from Tanzania</h3>
+<h1 align="center">Hello 👋, My name's Saroni Saitotia</h1>
+<h3 align="center">Welcome to my GitHub!, I am a tech entusiast, software developer and the founder of 
+  <a href="https://instagram.com/swis_studios" target="blank">swis_studios</a> </h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitoria&label=Profile%20views&color=0e75b6&style=flat" alt="saitoria" /> </p>

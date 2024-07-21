@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/_saitoria" target="blank"><img src="https://img.shields.io/twitter/follow/_saitoria?logo=twitter&style=for-the-badge" alt="_saitoria" /></a> </p>
 
-- 🔭 I’m currently working on my **UI hub web app**
+- 🔭 I’m currently working on a blazor UI package for popup modals **Swis.Blazor.Modals**
 
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 My portfolio is available at [https://saitoria.github.io/portfolio/index.html](https://saitoria.github.io/portfolio/index.html)
 
-- 💬 Ask me about **React, Android Development, Game Development, 3D Graphics, .NET, Azure**
+- 💬 Ask me about **React, Android Development, Game Development, 3D Graphics, .NET, Azure, Blazor**
 
 - 📫 How to reach me **saronisaitoria@gmail.com**
 
-- ⚡ Fun fact **I am a fan of One Piece**
+- ⚡ Fun fact **I am not a weeb, but I'm a fan of One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
